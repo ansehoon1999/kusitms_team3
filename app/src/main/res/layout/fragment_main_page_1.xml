@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainPagePackage.MainPage_Fragment1"
+    android:background="@color/light_pink">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="232dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginEnd="148dp"
+        android:fontFamily="@font/notomedium"
+        android:text="대외활동 알아보기"
+        android:textColor="#A06784"
+        android:textSize="28dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.087" />
+
+    <TextView
+        android:layout_width="140dp"
+        android:layout_height="41dp"
+        android:fontFamily="@font/notolight"
+        android:text="요즘것들"
+        android:textColor="#D2BBC7"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.114"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.052" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="293dp"
+        android:layout_height="468dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="41dp"
+        android:src="@drawable/mainpage_5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

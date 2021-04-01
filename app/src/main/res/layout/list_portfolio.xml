@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent">
+
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="365dp"
+        android:layout_height="171dp"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="23dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_rectangle_277" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="103dp"
+        android:layout_height="29dp"
+        android:layout_marginEnd="28dp"
+        android:fontFamily="@font/notobold"
+        android:includeFontPadding="false"
+        android:text="프로젝트 이름"
+        android:textColor="@color/brown"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+        app:layout_constraintEnd_toStartOf="@+id/textView19"
+        app:layout_constraintTop_toTopOf="@+id/imageView5"
+        app:layout_constraintVertical_bias="0.112" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="120dp"
+        android:fontFamily="@font/notobold"
+        android:includeFontPadding="false"
+        android:text="%"
+        android:textColor="@color/brown"
+        android:textSize="17dp"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintTop_toTopOf="@+id/imageView5" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="136dp"
+        android:fontFamily="@font/notobold"
+        android:includeFontPadding="false"
+        android:text="       ~       "
+        android:textColor="@color/brown"
+        android:textSize="17dp"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView18" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="24dp"
+        android:layout_height="18dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toStartOf="@+id/textView20"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView18"
+        app:srcCompat="@drawable/ic_group_223" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="282dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/edit_shape"
+        android:fontFamily="@font/notobold"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:text="한줄평"
+        android:textAlignment="center"
+        android:textColor="@color/brown"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="@+id/imageView5" />
+</androidx.constraintlayout.widget.ConstraintLayout>

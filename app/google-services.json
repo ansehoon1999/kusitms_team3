@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "549605980163",
+    "project_id": "teamprojectapp-28dbc",
+    "storage_bucket": "teamprojectapp-28dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549605980163:android:4bec3eb03f1751f09fb636",
+        "android_client_info": {
+          "package_name": "com.example.kusitms_team3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549605980163-ic51c0i3j3vcimem4o2qc1sqts073lth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCRlG2M2RJK_LqUwKAZhZvh3vF3c-z3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549605980163-ic51c0i3j3vcimem4o2qc1sqts073lth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549605980163:android:a1ada081c937998b9fb636",
+        "android_client_info": {
+          "package_name": "com.example.teamprojectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549605980163-doiiachpo0ersks2h9dht0ff9n7mnr6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamprojectapp",
+            "certificate_hash": "532c448f20fe77786625ed8d9ca6df6d26760b5c"
+          }
+        },
+        {
+          "client_id": "549605980163-k9iojpivv9ebm3s2tedtt9t50iclr9gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamprojectapp",
+            "certificate_hash": "9df35617b2b3760facafcb605b57d9bdb99c6a92"
+          }
+        },
+        {
+          "client_id": "549605980163-v9lki2vuktmqrjramsdev1odi3f9l1bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamprojectapp",
+            "certificate_hash": "b2da7053d5f3905b7230fa4868fc1a30576a89a3"
+          }
+        },
+        {
+          "client_id": "549605980163-ic51c0i3j3vcimem4o2qc1sqts073lth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCRlG2M2RJK_LqUwKAZhZvh3vF3c-z3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549605980163-ic51c0i3j3vcimem4o2qc1sqts073lth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
