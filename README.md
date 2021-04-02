@@ -1,4 +1,5 @@
-# 배추한포기🥦 (배우고 추려서 하나의 포트폴리오로 기록하자)
+# 배추한포기🥦 
+> 배우고 추려서 하나의 포트폴리오로 기록하자
 > 한국대학생IT경영학회 KUSITMS 23기 기업 프로젝트 요즘것들 X TEAM3
 
 ## Explanation
@@ -23,7 +24,11 @@
 
 포트폴리오 저장하기 버튼을 누르고 자신의 정보를 입력합니다
 
-<img src="https://user-images.githubusercontent.com/63048392/113374898-369dcf00-93a9-11eb-97de-4e04103c1037.jpg" width="400" height="700"> <img src="https://user-images.githubusercontent.com/63048392/113375748-09522080-93ab-11eb-91e7-9358a1c29853.jpg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/63048392/113374898-369dcf00-93a9-11eb-97de-4e04103c1037.jpg" width="400" height="700"> <img src="https://user-images.githubusercontent.com/63048392/113375748-09522080-93ab-11eb-91e7-9358a1c29853.jpg" width="400" height="700"> 
+
+<img src="https://user-images.githubusercontent.com/55428816/113376548-f0e30580-93ac-11eb-90c1-cef4ecc00767.jpg" width="400" height="700"> <img src="https://user-images.githubusercontent.com/55428816/113376632-196aff80-93ad-11eb-83cb-196eb0db0022.jpg" width="400" height="700"> 
+
+
 
 
 
