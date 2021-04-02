@@ -1,4 +1,7 @@
 # 배추한포기🥦 
+
+<img src="https://img.shields.io/badge/platform-android-brightgreen">
+
 > 배우고 추려서 하나의 포트폴리오로 기록하자
 
 > 한국대학생IT경영학회 KUSITMS 23기 기업 프로젝트 요즘것들 X TEAM3
