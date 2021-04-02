@@ -18,5 +18,5 @@ D: 단톡 방을 만든 사람
 기여도 = A * 56 + B * 0.24 + C * 0.15 + D * 0.06
 
 
-<img src="https://user-images.githubusercontent.com/63048392/113374898-369dcf00-93a9-11eb-97de-4e04103c1037.jpg" width="1000">
+<img src="https://user-images.githubusercontent.com/63048392/113374898-369dcf00-93a9-11eb-97de-4e04103c1037.jpg" width="500">
 
