@@ -20,7 +20,7 @@
 
 * 기여도 = A * 56 + B * 0.24 + C * 0.15 + D * 0.06
 
-## Screenshots
+## Usage
 
 1. raw directory에 txt파일을 넣습니다
 2. Get Started 버튼을 누릅니다
