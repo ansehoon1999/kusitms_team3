@@ -22,7 +22,12 @@
 
 ## Screenshots
 
-포트폴리오 저장하기 버튼을 누르고 자신의 정보를 입력합니다
+1. raw directory에 txt파일을 넣습니다
+2. Get Started 버튼을 누릅니다
+3. 기여도를 확인하고 포트폴리오 저장하기 버튼을 누릅니다
+4. 자신의 팀 프로젝트 정보를 입력합니다
+5. 타 페이지에서 자신이 정리한 내용을 확인할 수 있습니다
+
 
 <img src="https://user-images.githubusercontent.com/63048392/113374898-369dcf00-93a9-11eb-97de-4e04103c1037.jpg" width="400" height="700"> <img src="https://user-images.githubusercontent.com/63048392/113375748-09522080-93ab-11eb-91e7-9358a1c29853.jpg" width="400" height="700"> 
 
